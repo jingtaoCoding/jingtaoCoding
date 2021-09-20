@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-You are the most lucky guy in the world to see this message: try to finish sth you don't like today and you will find a surpise!
+You are the most lucky guy in the world to see this message: 
+
+      try to finish sth you don't like today and you will find a surpise!
 
 <!--
 **jingtaoCoding/jingtaoCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
