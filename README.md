@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-You are the most lucky guy in the world to see this message: 
-
-      try to finish sth you don't like today and you will find a surpise!
+- 🔭 I’m currently working on leading a team building ads products, and enjoying coding in Elixir. Its more enjoyable than coding in Ruby, or C++ in term of building web applications. 
+- ⚡ Fun fact: I love dogs better than cats. 
 
 <!--
 **jingtaoCoding/jingtaoCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
