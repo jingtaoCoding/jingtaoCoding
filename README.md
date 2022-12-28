@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on leading a team building ads products, and enjoying coding in Elixir. Its more enjoyable than coding in Ruby, or C++ in term of building web applications. 
-- ⚡ Fun fact: I love dogs better than cats. 
+- 🔭 I’m currently leading a team building ads products, and enjoying coding in Elixir. Besides Elixir/Phoenix, I have been coding in Ruby on Rails, and C++, and React/Redux JS as well. 
+- ⚡ Fun fact: I love dogs and enjoy biking and crabbing. 
 
 <!--
 **jingtaoCoding/jingtaoCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
