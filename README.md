@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently leading a team building ads products, and enjoying coding in Elixir. Besides Elixir/Phoenix, I have been coding in Ruby on Rails, and C++, and React/Redux JS as well. 
+- 🔭 I’m currently leading a team building ads products, and enjoying coding in Elixir. Besides Elixir/Phoenix, I have also been coding in Ruby on Rails, C++, JavaScript (React/Redux/TypeScript), and other script languages, such as Python, Perl, Matable, R, etc. 
 - ⚡ Fun fact: I love dogs and enjoy biking and crabbing. 
 
 <!--
