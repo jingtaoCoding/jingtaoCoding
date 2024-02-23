@@ -1,8 +1,11 @@
-### Hi there 👋
+Hi 👋
 
-- 🔭 I have been coding in Elixir/Phoenix for the past few years, and still enjoy doign it a lot. 
-- I also code in these: Ruby on Rails, C++, JavaScript (React/Redux/TypeScript), and other script languages, such as Python, Perl, Matable, R, etc.
-- ⚡ Fun fact: I love dogs and enjoy biking and crabbing. 
+Thank you for checking out my profile! Allow me to share a little bit more:
+
+🔭 Since 2020, I've been immersed in the world of `Elixir/Phoenix` and `LiveView`, finding continuous joy in the coding journey.
+💻 My diverse tech stack includes proficiency in `Ruby on Rails`, `C++`, and `JavaScript` (`React`/`Redux`/`TypeScript`). I'm also well-versed in various scripting languages like `Python`, `Perl`, `MATLAB`, `R`, and more.
+
+⚡ Fun fact: Apart from my coding adventures, I'm an avid dog lover. When not immersed in technology, you can find me enjoying the simple pleasures of biking and crabbing.
 
 <!--
 **jingtaoCoding/jingtaoCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
